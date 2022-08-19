@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src = "https://media-exp1.licdn.com/dms/image/C5616AQFj7Zf2nmxIWw/profile-displaybackgroundimage-shrink_350_1400/0/1612356894454?e=1637798400&v=beta&t=Qlgw5QJfpiYszEVgerYRbnhqEflcgQTthms_uY4xYSw"></img>
-<h1 align = "center">Hi there 👋 I'm Akshit Verma</h1>
+<img src = "pic_trulli.jpg" alt="Italian Trulli"></img>
+<h1 align = "center">Hi there 👋 I'm Manshal!!</h1>
  
-<h3 align="center">echo since 2001</h3>
+<h3 align="center">echo since 2000</h3>
 
 - 🔭 I’m currently working on Flutter Development
 - 🌱 I’m currently learning front end technologies like - React.
