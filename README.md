@@ -2,7 +2,7 @@
 
 
 <!--
-**akshitverma8191/akshitverma8191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**man-shal/man-shal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 <h3 align="center">echo since 2001</h3>
 
 - 🔭 I’m currently working on Flutter Development
-- 🌱 I’m currently learning fornt end technologies like - React.
+- 🌱 I’m currently learning front end technologies like - React.
 - 👯 I’m looking to collaborate on real world open source projects
-- ⚡ Fun fact: Visit my portfolio to see my web dev skills - https://akshitverma8191.github.io/portfolio/
 
