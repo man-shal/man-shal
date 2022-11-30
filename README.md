@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">echo since 2000</h3>
 
 - 🔭 I’m currently working on Flutter Development
-- 🌱 I’m currently learning front end technologies like - React.
+- 🐱‍🏍 I'm a competitive programmer by heart ❤
+- 🌱 I’m currently pursuing my mechanical engineering degree at IIT Bombay.
 - 👯 I’m looking to collaborate on real world open source projects
 
